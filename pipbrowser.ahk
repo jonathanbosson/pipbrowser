@@ -1,7 +1,7 @@
 ; -------- User ONLY change these parameters --------
 path := "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 resolution := {"w": 2560, "h": 1440}
-defaultWindow := {"x": 1536, "y": 0, "w": 1024, "h": 576}
+defaultWindow := {"x": 1792, "y": 0, "w": 768, "h": 432}
 defaultPos := "TopRight"
 commonPages := ["https://www.google.com", "https://gw2efficiency.com/"] 
 ; ---------------------------------
