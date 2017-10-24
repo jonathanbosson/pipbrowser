@@ -15,7 +15,7 @@ Pull requests or suggestions on improvements are welcomed!
 
 1. Download and install [`AutoHotKey`](https://autohotkey.com/)
 2. Grab the latest [`version`](https://github.com/jonathanbosson/pipbrowser/archive/master.zip) and unpack the `.zip` file. 
-3. Edit the top parameters in `pipbrowser.ahk` to your respective setup
+3. Edit the top parameters in `pipbrowser.ahk` according to your setup
 4. Run the script
 
 ### Usage 
@@ -28,7 +28,7 @@ Pull requests or suggestions on improvements are welcomed!
 * Make window larger: `ctrl+alt+l`
 * Make window smaller: `ctrl+alt+k`
 
-Auto-embed youtube videos by using the 11-character code as URL (e.g. `dQw4w9WgXcQ`).
+Auto-embed youtube videos by using the 11-character code as URL (e.g. `dQw4w9WgXcQ`). 
 `ctrl+alt+f` is the same as `ctrl+alt+g` with the clipboard as address.
 `ctrl+alt+z`-toggle scews the browser frame somewhat. If done too much, just reopen the page with `ctrl+alt+g`. 
 
