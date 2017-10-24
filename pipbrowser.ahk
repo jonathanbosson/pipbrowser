@@ -15,7 +15,6 @@ origin := ["TopLeft", "TopCenter", "TopRight", "CenterLeft", "CenterRight", "Bot
 ^!h::
 MsgBox ,, How to use the script, 
 (LTrim
-	Help: `t `t ctrl+alt+h
 	Open copied URL: `t ctrl+alt+f
 	Go to URL: `t ctrl+alt+g
 	Toggle PiP mode: `t ctrl+alt+z
