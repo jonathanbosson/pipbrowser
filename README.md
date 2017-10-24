@@ -28,11 +28,12 @@ Pull requests or suggestions on improvements are welcomed!
 * Make window larger: `ctrl+alt+l`
 * Make window smaller: `ctrl+alt+k`
 
+Auto-embed youtube videos by using the 11-character code as URL (e.g. `dQw4w9WgXcQ`).
 `ctrl+alt+f` is the same as `ctrl+alt+g` with the clipboard as address.
 `ctrl+alt+z`-toggle scews the browser frame somewhat. If done too much, just reopen the page with `ctrl+alt+g`. 
 
 
-### Add the script to your startup list by 
+### Add the script to startup by 
 1. Right click on `pipbrowser.ahk` to make a shortcut of it
 2. Press `win+r`, type `shell: Common Startup` and paste the shortcut in the opened directory
 
