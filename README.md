@@ -1,5 +1,5 @@
 ## Picture-in-Picture Browser
-Minimal browser window without any borders and set as always-on-top to allow for smooth browsing while using another program.
+Minimal browser window without **borders** and set as **always-on-top** to allow for smooth browsing while using another program.
 Perfect for single-monitor setups, watch netflix, youtube or twitch while working or playing. 
 
 Pull requests or suggestions on improvements are welcomed!
