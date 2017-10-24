@@ -1,13 +1,13 @@
 ## Picture-in-Picture Browser
 Minimal browser window without **borders** and set as **always-on-top** to allow for smooth browsing while using another program.
-Perfect for single-monitor setups, watch netflix, youtube or twitch while working or playing. 
+Perfect for single-monitor setups. Watch netflix, youtube or twitch while working or playing. 
 
 Pull requests or suggestions on improvements are welcomed!
 
 ### Dependencies
 
 * [`AutoHotKey`](https://autohotkey.com/)
-* `Google Chrome` - only required for current process id identification
+* `Google Chrome` - only required due to current process id identification
 * `Windows 7/8.1/10`
 
 
